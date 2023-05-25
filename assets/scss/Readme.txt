@@ -1,1 +1,1 @@
-The .scss (Sass) files are only avilable in the pro version. You can buy it from: https://bootstrapmade.com/maundy-free-coming-soon-bootstrap-theme/
+The .scss (Sass) files are only avilable in the pro version. You can buy it from: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
